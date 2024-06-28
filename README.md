@@ -1,2 +1,2 @@
 # SearchBarDemo
-Make a Search Bar component with React (with API Calls)
+ Search Bar component with React (with API Calls)
