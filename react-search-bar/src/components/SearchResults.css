@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+/* Center the text within the div */
+.SearchResults {
+    height: 100vh;
+    font-family: 'poppins', sans-serif;
+}
+
+/* Style the text */
+.SearchResults div {
+    background-color: #f1f1f1;
+    padding: 10px 20px;
+    color: #333;
+}
+
+/* Add some hover effect */
+.SearchResults div:hover {
+    background-color: #e1e1e1;
+}
